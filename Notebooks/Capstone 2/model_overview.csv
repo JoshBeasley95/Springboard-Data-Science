@@ -1,0 +1,19 @@
+Category,Item,Value
+Feature,child_poverty_rate,
+Feature,federal_funding_per_attended_student,
+Feature,part_rate,
+Feature,ADA,
+Feature,state_funding_per_attended_student,
+Feature,teacher_quality_composite,
+Feature,absenteeism_rate,
+Feature,median_income,
+Feature,teacher_avg_tenure_yrs,
+Feature,total_funding_per_attended_student,
+Hyperparameter,n_estimators,300.0
+Hyperparameter,max_depth,30.0
+Hyperparameter,min_samples_split,2.0
+Hyperparameter,min_samples_leaf,1.0
+Metric,Mean Squared Error,116.90479197315888
+Metric,Mean Absolute Error,8.50256817651733
+Metric,R-Squared,0.5332779846638522
+Metric,Root Mean Squared Error,10.812251938109789
