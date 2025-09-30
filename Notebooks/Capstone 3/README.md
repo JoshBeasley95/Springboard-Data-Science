@@ -89,7 +89,7 @@ Based on the modeling results and overall analysis, here are three concrete reco
 1. **Feature Engineering**: Explore additional features or interactions that may improve the model's ability to discriminate between classes, which would ideally increase our currently low precision to allow for a greater balance between this and recall. 
 2. **Alternative Algorithms**: Investigate other algorithms known for handling imbalanced data well, such as XGBoost or LightGBM, which might offer improvements in precision.
 3. **Incremental Learning**: Consider models that support incremental learning, allowing the system to evolve as new data becomes available.
-4. Deployment Strategy: Develop a deployment strategy that includes real-time analysis and the ability to retrain the model periodically with new transaction data.
+4. **Deployment Strategy**: Develop a deployment strategy that includes real-time analysis and the ability to retrain the model periodically with new transaction data.
 5. **Cost-Benefit Analysis**: Perform a detailed cost-benefit analysis to better understand the implications of false positives versus false negatives, potentially adjusting the class weights or threshold accordingly.
 
 ## Credits
